@@ -240,7 +240,7 @@ MYANMAR_VOICE_IDS = {"v1", "v2", "v3", "v4", "v5", "v6", "v7", "v8", "v9", "v10"
 MYANMAR_VOICE_LABELS = {
     "v1": "V1 ♂ Thiha (MM)",
     "v2": "V2 ♀ Nilar (MM)",
-    "v3": "V3 ♂ Gianni (IT)",
+    "v3": "V3 ♂ Giuseppe (IT)",
     "v4": "V4 ♂ William (AU)",
     "v5": "V5 ♂ Andrew (US)",
     "v6": "V6 ♀ Ava (US)",
