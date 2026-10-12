@@ -202,7 +202,7 @@ async def generate_all_tts(paragraphs, audio_dir, voice_id, speed, pitch):
 VOICE_MAP = {
     "v1": "my-MM-ThihaNeural",
     "v2": "my-MM-NilarNeural",
-    "v3": "it-IT-GianniNeural",
+    "v3": "it-IT-GiuseppeMultilingualNeural",
     "v4": "en-AU-WilliamMultilingualNeural",
     "v5": "en-US-AndrewMultilingualNeural",
     "v6": "en-US-AvaMultilingualNeural",
